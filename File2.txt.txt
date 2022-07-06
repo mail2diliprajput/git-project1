@@ -1,1 +1,1 @@
-This is FileB version 2
+This is FileB version 3"Last Changes File B" 
